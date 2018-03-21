@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MarketAction.iml" filepath="$PROJECT_DIR$/MarketAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Market.Action.iml" filepath="$PROJECT_DIR$/.idea/Market.Action.iml" />
+      <module fileurl="file://C:\Users\dmitry.shishlo\StudioProjects\Market.Action\MarketAction.iml" filepath="C:\Users\dmitry.shishlo\StudioProjects\Market.Action\MarketAction.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
