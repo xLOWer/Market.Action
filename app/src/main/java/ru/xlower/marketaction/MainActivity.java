@@ -112,12 +112,5 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
-
-    public void onClick_buttonGet(View view)
-    {
-        EditText edit = (EditText) findViewById(R.id.testField);
-        HttpRequestTaskExtend ext = new HttpRequestTaskExtend();
-        ext.httpRequestTask.execute();
-        edit.setText(ext.httpRequestTask.RESPONSE);
-    }
+//EditText edit = (EditText) findViewById(R.id.testField);
 }

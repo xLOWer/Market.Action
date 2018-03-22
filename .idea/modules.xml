@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Market.Action.iml" filepath="$PROJECT_DIR$/.idea/Market.Action.iml" />
+      <module fileurl="file://C:\Users\xLOWer\AndroidStudioProjects\Market.Action\.idea\Market.Action.iml" filepath="C:\Users\xLOWer\AndroidStudioProjects\Market.Action\.idea\Market.Action.iml" />
       <module fileurl="file://C:\Users\dmitry.shishlo\StudioProjects\Market.Action\MarketAction.iml" filepath="C:\Users\dmitry.shishlo\StudioProjects\Market.Action\MarketAction.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\xLOWer\AndroidStudioProjects\Market.Action\app\app.iml" filepath="C:\Users\xLOWer\AndroidStudioProjects\Market.Action\app\app.iml" />
     </modules>
   </component>
 </project>
